@@ -23,14 +23,18 @@
     <main>
         <section id="login">
             <h2>Login</h2>
-            <form id="loginForm">
-                <div class="form-group">
+            <form id="login_form">
+                <div class="form_group">
                     <label for="email">Email:</label>
                     <input type="email" id="email" name="email" required>
                 </div>
-                <div class="form-group">
+                <div class="form_group">
                     <label for="password">Password:</label>
                     <input type="password" id="password" name="password" required>
+                </div>
+                <div class="form-group">
+                    <input type="checkbox" id="remember-me" name="remember-me">
+                    <label for="remember-me">Remember Me</label>
                 </div>
                 <button type="submit">Login</button>
             </form>
