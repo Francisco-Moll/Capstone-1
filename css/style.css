@@ -150,6 +150,22 @@ main {
     border-top: 2px solid black;
     padding-top: 20px;
 }
+.card_info {
+    display: flex;
+    justify-content: center;
+}
+
+.card_group {
+    margin-bottom: 20px;
+    display: block;
+    margin-bottom: 8px;
+    color: #333333;
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+}
 
 button {
     background-color: #333333;
