@@ -146,6 +146,11 @@ main {
     height: 100px;
 }
 
+#cart {
+    border-top: 2px solid black;
+    padding-top: 20px;
+}
+
 button {
     background-color: #333333;
     color: white;
