@@ -1,5 +1,7 @@
 This an e-commerce page template designed to show off some of the things that I've learned.
 I based it around Minecraft skin sharing sites like Minecraftskins.net and PlanetMinecraft.com.
+Typically Minecraft skins are free to share, however I used them because th file format is a simple .png file of a strict size.
+I used that to my advantage so I didn't have to pre-scale my images or crop them.
 
 The bit of code I'm most proud of is my JavaScript:
 
